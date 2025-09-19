@@ -36,5 +36,5 @@ You are free to share and adapt the material, provided proper credit is given.
 ---
 
 ## Contact
-For inquiries and collaboration: [вуьшгкв"зкщещтюьу]  
+For inquiries and collaboration: [demiurd@proton.me]  
 
