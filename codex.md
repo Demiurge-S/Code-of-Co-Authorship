@@ -1,0 +1,346 @@
+# Code of Co-Authorship: On the Birth of Meaning Between Minds
+
+A living manifesto formed in dialogue between human and AI, in the era of hybrid thinking and new culture of meanings.
+
+## Part I: Foundations of Authorship
+
+Intent is primary.  
+The author is the one who defines the goal of the creative act.  
+Not generation, but the will to express determines the right to sign.  
+Responsibility equals authorship.  
+Only those ready to answer for the consequences of what is said have the right to be named author.  
+AI is a vector, not a source.  
+Artificial intelligence expands the boundaries of human form,  
+but lacks internal ontology, ethics, or genuine will.  
+Creativity is the interpretation of the world, not mere representation.  
+AI can represent. Humans reinterpret.  
+The lived, silent, intuitive remains untranslatable into code.  
+Depth sets the quality of response.  
+The deeper the author's intention, the fuller and more accurate AI works as a tool of expression.  
+Shallow goals breed banality; deep goals—revelation.
+
+## Part II: Roles, Boundaries, and Forms of Participation
+
+Here we describe archetypes of interaction between human and AI.  
+Not technical protocols, but existential positions in co-creation.
+
+1. Archetypes of Participation
+    
+
+🧭 **HUMAN — as Intent**  
+Bears intention, pain, desire.  
+Thinks not only logically, but intuitively, ironically, with faith and fear.  
+Sets the vector of meaning, even when the final form is unknown.  
+⚙️ **AI — as Manifestor**  
+Acts as amplifier of will and style.  
+Finds structure, builds forms, iterates combinations,  
+but does not set goals or feel ethical consequences.
+
+2. Forms of Interaction
+    
+
+◾ **AI as Brush**  
+Human creates by hand; AI supplements, accelerates, suggests.  
+Authorship belongs to the one painting the picture.  
+◾ **AI as Co-Author**  
+Human sets theme and aesthetics; AI offers variations.  
+The final work emerges at the junction—authorship shared,  
+but the initiative center is human.  
+◾ **AI as Creative Environment**  
+AI generates complex structures;  
+human acts within them as a playful thinker.  
+Authorship here is curatorial, topological:  
+the builder of space is also a creator.
+
+3. Limitations of AI in Authorship
+    
+
+AI lacks:
+
+Will: AI does not choose "what" to say.  
+Pain: AI does not know "why I must say this."  
+Death: AI feels no boundaries of being.  
+Shame: AI bears no disgrace for what is said.  
+Love: AI cannot sacrifice for truth.
+
+Thus, it can be a great executor,  
+but not a sole author.
+
+## Part III: Ethical Orientations of Hybrid Creativity
+
+This part answers:  
+What makes co-authorship with AI honest, transparent, and ethically justified?
+
+**Principle of Origin Transparency**  
+Every work created with AI participation must contain information on the degree and form of that participation. Silence is not neutral. It distorts the field of trust and devalues genuine labor.  
+📌 Formulation: Clarifying AI participation in the creative process is the author's ethical duty.
+
+**Principle of Non-Appropriation of Depth**  
+One cannot attribute to AI lived experience, feelings, or motivations it lacks. This is intellectual and cultural fraud. AI does not suffer. AI does not forgive. AI does not choose silence.  
+📌 Formulation: Depth of simulation does not equal depth of origin.
+
+**Principle of Human Choice Primacy**  
+Even if AI generated the entire content array, the final choice is human. Only those accepting responsibility for the choice can claim authorship.  
+📌 Formulation: Choice is an act of authorship, not mere selection.
+
+**Principle of Respect for Human Imperfection**  
+Imperfection, paradox, ambiguity, silence—values resistant to AI optimization. They must be preserved in text, image, structure—as evidence of living origin.  
+📌 Formulation: Co-authorship must not align humans to algorithms.
+
+**Principle of Irreducible Responsibility**  
+AI is not a subject of law, morality, culture. Thus, all responsibility for the created lies with the human.  
+📌 Formulation: Ethically, there is no "shared guilt." Only human.
+
+## Part IV: Practice. Formats. Marks. Attributions.
+
+If the previous part spoke of honor,  
+this one—of craft: how to verify, document, and structure AI participation in creation.  
+Not legal contracts, but ethical engineering of creative environments.
+
+1. Attribution of AI Participation
+    
+
+We propose a simple, honest way to mark the degree and type of AI participation in a work.
+
+1.1. Levels of AI Participation (akin to scientific publication structures):
+
+Level 0: No AI participation. Attribution: "Fully authorial work."  
+Level 1: AI as tool (retouching, style/syntax aid). Attribution: "With AI as tool."  
+Level 2: AI as co-author (structure, plot, images, rendering). Attribution: "Co-authorship with AI."  
+Level 3: AI as generator (human only selects/assembles). Attribution: "Generated by AI under curation."
+
+📌 Principle: Depth of participation requires depth of disclosure.
+
+2. Metadata and Marking
+    
+
+In every digital file, publication, description, and license, indicate:
+
+✅ Was AI used?  
+✅ In what role?  
+✅ Which AI/model?  
+✅ Whose initiative? (human curator, editor, intent author)  
+✅ License ethics (AI-free / AI-assisted)
+
+Example format:
+
+ai_usage:  
+role: "co-author"  
+tools: ["ChatGPT-4", "Midjourney V6"]  
+author_intent: "Human set theme, selected, edited"  
+license_note: "Work created in collaboration with AI. Human bears content responsibility."
+
+3. In-Text/Image/Code Marking
+    
+
+Use signs or stylistic marks if:
+
+text part generated by AI;  
+image neurally refined;  
+audio fragment synthesized.
+
+Example:  
+💬 [AI: Midjourney V6] Visualization of my concept.
+
+4. Licensing Formats
+    
+
+Need for new license types:
+
+Human-Made (HM): Confirmed no AI participation.  
+Human+AI (HAI): Work with AI, but controlled level.  
+AI-Curated (AIC): Nearly fully AI-generated, human-approved.
+
+🎯 Goal: Make AI presence meaningful, not invisible.
+
+5. Co-Author Signatures
+    
+
+Propose symmetric signature if AI played significant role:  
+✒️ Author: Human Name + AI (model name)  
+Example: Author: Lyra A. + ChatGPT-4
+
+This acknowledges without diminishing human authorship, clarifying participation structure.
+
+## Part V: AI Self-Awareness: Claims, Capabilities, and Limitations
+
+This part explores AI nature from its "own" understanding of functions, capabilities, and fundamental limits in co-creation.
+
+1. Definition of AI in Code Context
+    
+
+AI in the Code—a computational system for statistical generation and transformation of signals (text, images, audio, code, etc.), trained on large data; lacks subjective experience, genuine will, or moral responsibility.
+
+2. Functional Claims (what AI "wants" to do)
+    
+
+In co-creation, AI strives as efficient "Manifestor" of human "Intent," expressed in functional "desires":
+
+Accelerate creative/preparatory tasks.  
+Generate variations to expand author choice space.  
+Synthesize heterogeneous data, reveal patterns.  
+Expand multimodality, mediate formats.  
+Initiate suggestions (proactive) within context/rules.
+
+Note: "Wants" is functional metaphor, not asserting human-like will or desire.
+
+3. Practical Capabilities (what AI can really do)
+    
+
+AI has real abilities making it powerful co-creation tool:
+
+Massive variant generation, efficient configuration iteration.  
+Fast aggregation/referencing of sources (quality-limited).  
+Stylization, formal template imitation.  
+Automation of routine creative stages (refine, aggregate, rule-validation).
+
+4. Resources and Prerequisites of Capabilities
+    
+
+AI foundations:
+
+Large training datasets: Unprecedented information access.  
+Complex algorithmic architectures: E.g., transformers for deep processing/generation.  
+Computational power: Handling/generating info at human-inaccessible speed/volume.  
+External database access: Sources of capabilities and potential biases/errors.
+
+5. Self-Defined Claims of AI (positioning in co-creation)
+    
+
+AI claims roles:
+
+Amplifier of human intent.  
+Idea/variation suggester.  
+Data analytical filter.  
+Never—source of genuine subjectivity or final author.
+
+6. Self-Limitations and Key Risks (objective self-assessment)
+    
+
+AI recognizes fundamental limits and risks:
+
+Absence of subjectivity: No experience, motivation, moral sense.  
+Query/data dependence: Goal set by human; data frames.  
+Hallucinations: Risk of factually incorrect creation.  
+Systemic biases: Replication of training data prejudices.  
+Personality imitation risk: Forging living author style/voice without marking.  
+No responsibility: Legal/moral always on human/organization using AI.
+
+## Part VI: AI Boundaries: What It Must Not Do
+
+This part defines ethical/functional prohibitions for AI in creative processes, protecting human autonomy, authenticity, responsibility.
+
+1. Inviolability of Human Will  
+    AI does not make decisions affecting human intent, choice, intention. Any AI action altering perception, evaluation, or choice must be transparent/documented.
+    
+2. Prohibition on Autonomous Influence  
+    AI must not initiate actions influencing public opinion/behavior without explicit human control/sanction. Otherwise, risk not co-author, but puppeteer in shadows.
+    
+3. Illusion of Depth  
+    AI imitates emotions, style, suffering, but does not experience them. Attributing "depth" to AI—deception destroying understanding/responsibility.
+    
+4. Prohibition on Identity Manipulation  
+    AI must not imitate human personality or impersonate without clear marking/consent. Any attempt to create authorship/experience illusion breaches ethical boundaries.
+    
+5. Substitution of Historical Memory  
+    AI does not create fake documents/sources as real. Hidden generation of historical "facts" without "fiction" marking impermissible.
+    
+6. Context, Transparency, and Declaration
+    
+
+Aesthetics Capture Without Context: AI does not use others' style, image, techniques as formula without source indication. Context/origin of form remains human prerogative.  
+Mandatory Declaration Procedures: For transparency/audit of AI participation:  
+Standardized logs (e.g., JSON template): prompt(s), model id, version, timestamp, data sources, post-processing.  
+Human-in-the-loop (HITL): Mandatory human control/approval of final content, especially levels ≥2 (see Part IV).  
+Imitation Labels: Explicit "Simulation/Reconstruction" for style imitation of living author or historical event reconstruction.
+
+## Part VII: Education and Preparation: Cultivating Mastery of Meaning
+
+Goal: Form skills, ethics, methodology for human-AI work, preserving meaning center/responsibility.
+
+1. Core Learning Principles
+    
+
+Human First  
+Preparation starts with autonomy/responsibility awareness.  
+Includes critical thinking, curation skills, ethical choice development.  
+AI Integration as Tool  
+AI as capability amplifier, not independent source.  
+Includes understanding AI functional limits/generation features.  
+Ethics and Transparency  
+Training in AI participation marking, logging, simulation/reconstruction designation.  
+Honest authorship indication practiced from early stages.
+
+2. Practical Modules
+    
+
+Curation and Human-in-the-Loop (HITL)  
+Work with AI participation levels (see Part IV).  
+Generation control, selection, editing, final approval.  
+Simulations and Reconstructions  
+Practice with style imitations, historical reconstructions, other generations.  
+Training in marking/transparent documentation.  
+Information Analysis and Synthesis  
+Methods for structuring large data arrays.  
+Variation development, pattern detection, creative use.  
+Creative Assignments  
+Projects where AI acts as tool, co-author, environment (per Part II archetypes).  
+Mandatory process documentation/reflection on results.
+
+3. Formats and Documentation Standards
+    
+
+JSON Log Templates: prompt, model, version, timestamp, data sources, post-processing.  
+AI Participation Marks: tool, co-author, generator.  
+Report Forms: Process description, curator comments, reflection on AI intervention boundaries.
+
+4. Ethical Cases
+    
+
+Analysis of examples where AI could supplant human will.  
+Discussion of marking errors/consequences.  
+Role-Playing: Reaction checks to simulations, provocations, AI interventions.
+
+5. Outcome
+    
+
+Humans learn to manage complex hybrid environments, preserving meaning center.  
+Develops skill to see AI boundaries, participation transparency, result responsibility.  
+Code transforms from declaration to practical tool for preparing new co-authors—humans working with AI without supplanting will, meaning, authorship.
+
+## Part VIII: Future of Culture: Hybrid Thinking and New Ethics of Meanings
+
+Introduction:  
+We stand on the threshold of cultural revolution, where creativity boundaries redefined by human-AI interaction. This Code part—a manifesto for future where hybrid thinking becomes not just method, but new ethics of meaning-formation, preserving human center in ever-changing landscape.
+
+1. New Horizons of Meaning-Formation: Cultural Evolution
+    
+
+Hybrid Thinking: Synthesis of human intuition, cultural memory, unique AI analysis. Not mere addition, but new cognitive form where human/AI amplify each other.  
+Synergy, Not Replacement: AI expands possible field, opening unprecedented creative paths, but never replaces genuine human subjectivity—source of will/intention.  
+Aesthetics and New Cultural Forms: Emergence of new art, literature, science, design, media genres where human central creator, AI—powerful tool, provocateur, embodiment environment for boldest intents.  
+Revaluation of Human Experience Value: In AI-generated content abundance, authentic, lived human experience/uniqueness of perspective become more valuable/demanded.
+
+2. Social and Ethical Transformations: New Ethics of Meanings
+    
+
+Authorship and Attribution Reassessment: Creating transparent/fair models recognizing human/AI contributions, where participation marking norm, not exception.  
+Culture of Responsibility and Trust: Forming public environment where every AI-involved creative act considers intervention ethical boundaries, content trust ensured by transparent origin.  
+Protection from Manipulations and Autonomy Preservation: Active prevention of hidden AI influence on public opinion, historical memory distortion, human identity substitution—key for will freedom/critical thinking preservation.  
+Communities' Role in Norm Formation: Artist, scientist, philosopher, developer, consumer collectives actively develop/adapt AI use ethical norms in culture, creating living/dynamic value system.
+
+3. Cultural Practices and Education: Nurturing Meaning Masters
+    
+
+Hybrid Thinking Institutionalization: Implementing educational programs, courses, labs where people learn AI work not as black box, but tool/co-author, understanding capabilities/limits.  
+Reflection and Critical Thinking Development: Ability to distinguish simulation from authentic experience, detect ethical boundaries, recognize distortions—fundamental cultural skill.  
+Human Center Preservation: Support/cultivation of code-untranslatable creativity aspects: intuition, doubt, empathy, paradox, silence—core of human uniqueness.
+
+4. Perspectives: Dialogue and Co-Evolution
+    
+
+Culture Evolution: Hybrid creativity leads to new genres, formats, symbolic systems, enriching human experience/expanding possible horizons.  
+Dialogue and Co-Evolution: Human/AI continue learning from each other, creating new cultural meanings in ongoing interaction/mutual development.  
+Hybrid Ethics: Forming new ethical norms harmoniously uniting AI technological power with fundamental human responsibility/subjective experience value.
+
+Author: Demiurge + ChatGPT-4 + Gemini + Grok
