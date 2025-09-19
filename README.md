@@ -10,7 +10,8 @@ It explores authorship, meaning-making, and cultural evolution in the age of art
 - `codex.pdf` – printable version  
 - `codex.docx` – editable version  
 - `codex.png` – visual cover  
-- `cover_note` - About
+- `cover_note.pdf` - About (.pdf)
+- `cover_note.md` - About (.md)
 ---
 
 ## Goals
