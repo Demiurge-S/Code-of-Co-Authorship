@@ -9,7 +9,7 @@ It explores authorship, meaning-making, and cultural evolution in the age of art
 - `codex.md` – main text (Markdown format)  
 - `codex.pdf` – printable version  
 - `codex.docx` – editable version  
-- `cover.png` – visual cover  
+- `codex.png` – visual cover  
 
 ---
 
