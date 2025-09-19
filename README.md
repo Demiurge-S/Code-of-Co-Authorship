@@ -14,8 +14,6 @@ Key highlights:
 ✅ Sets boundaries to prevent AI manipulation or historical distortion.  
 ✅ Envisions hybrid thinking as a new cultural paradigm.  
 
-The Code is a call to creators, researchers, and policymakers to shape ethical co-creation. Read the full text: [codex.md](codex.md) | [PDF](codex.pdf) | [arXiv Preprint (forthcoming)](https://arxiv.org/abs/2509.xxxx)  
-
 How can we ensure AI enhances, not overshadows, human creativity? Join the conversation!  
 
 #AIEthics #CoAuthorship #HumanAICreativity #Innovation
