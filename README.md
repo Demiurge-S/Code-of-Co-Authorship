@@ -1,4 +1,4 @@
-# Codex of Co-Authorship (2025)
+# 📜 Code of Co-Authorship: On the Birth of Meaning Between Minds
 
 <p align="center">
 <a href="codex.png" target="_blank">
