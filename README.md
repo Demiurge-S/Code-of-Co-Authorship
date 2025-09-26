@@ -1,5 +1,13 @@
 # Codex of Co-Authorship (2025)
 
+<p align="center">
+<a href="codex.png" target="_blank">
+  <img src="codex.png" alt="codex" width="500">
+</a>
+</p>
+
+
+
 **Codex of Co-Authorship** is a philosophical and ethical manifesto developed in collaboration between human and AI.  
 It explores authorship, meaning-making, and cultural evolution in the age of artificial intelligence.
 
