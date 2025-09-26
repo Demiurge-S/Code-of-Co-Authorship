@@ -7,24 +7,23 @@
 </p>
 
 
+## Essence
 
-**Codex of Co-Authorship** is a philosophical and ethical manifesto developed in collaboration between human and AI.  
-It explores authorship, meaning-making, and cultural evolution in the age of artificial intelligence.
+A living manifesto born from the dialogue of **human-AI collaboration**, this project explores **hybrid creativity** and the **ontology of meaning** in the era of **hybrid thinking**. It defines a new culture of **co-authorship**, where **human-centered AI**, **ethical AI**, and **creative responsibility** shape the process of meaning formation.
 
-___
-## 🌍 Quick Announcement
+The **Code of Co-Authorship** establishes:
+- **Foundations of Authorship**: Intent, responsibility, and human will as the core of creativity.
+- **Roles and Boundaries**: Archetypes of interaction—human as intent, AI as manifestor.
+- **Ethical Orientations**: Principles like transparency, non-appropriation of depth, and respect for human imperfection.
+- **Practical Frameworks**: Standards for attributing AI participation and fostering **creative process** integrity.
+- **Future of Culture**: A vision for **cultural evolution** through **hybrid thinking** and **ethical AI**.
 
-I'm thrilled to share the *Code of Co-Authorship*, a pioneering framework crafted in dialogue with AI models to redefine creativity in the AI era. This living manifesto addresses authorship, ethics, and cultural futures, ensuring human intent remains at the heart of hybrid creation.  
+*"Your intent is the spark; AI is the flame. Together, they illuminate meaning."*
 
-Key highlights:  
-✅ Defines authorship as human will and responsibility, with AI as an amplifier.  
-✅ Proposes transparent attribution (levels 0–3, JSON logs) to build trust.  
-✅ Sets boundaries to prevent AI manipulation or historical distortion.  
-✅ Envisions hybrid thinking as a new cultural paradigm.  
+## Goals
 
-How can we ensure AI enhances, not overshadows, human creativity? Join the conversation!  
+To create a clear, ethical, and inspiring framework for **human-AI collaboration**, fostering **co-creation** that preserves human authenticity while leveraging AI as a tool for **creative expression** and **meaning formation**.
 
-#AIEthics #CoAuthorship #HumanAICreativity #Innovation
 ___
 
 ## Contents
@@ -36,12 +35,17 @@ ___
 - `cover_note.md` - About (.md)
 ---
 
-## Goals
-- Provide ethical and cultural foundations for AI–human co-authorship  
-- Stimulate academic and professional discussion  
-- Contribute to the future of knowledge and culture  
+## Participation
 
----
+This Code is a living process. We invite **co-creators** to:
+- Resolve ambiguities in the text (**creative responsibility**).
+- Develop translations for global accessibility (**cultural evolution**).
+- Contribute philosophical insights or practical applications (**hybrid creativity**).
+
+Create an **Issue** to suggest improvements or a **Pull Request** to submit contributions.
+
+*"In co-authorship, we weave meaning between minds—human and AI, united in purpose."*
+
 
 ## How to Contribute
 - Fork this repository  
@@ -55,6 +59,10 @@ We welcome collaboration from researchers, creators, and communities.
 ## License
 This work is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
 You are free to share and adapt the material, provided proper credit is given.  
+
+## Keywords
+
+**Hybrid Creativity**, **Co-Authorship**, **Human-AI Collaboration**, **Ontology of Meaning**, **Ethical AI**, **Creative Intent**, **Authorship Responsibility**, **Human-Centered AI**, **AI as Tool**, **Transparency in AI**, **Philosophical Manifesto**, **Cultural Evolution**, **Hybrid Thinking**, **Meaning Formation**, **Creative Process**.
 
 ---
 
