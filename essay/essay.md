@@ -1,5 +1,11 @@
 # Why AI Does Not "Just Reprocess" and How Scale and Speed Redefine Creativity in the 21st Century: An Extended Essay
 
+<p align="center">
+<a href="W2.png" target="_blank">
+  <img src="W2.png" alt="Cover-lat" width="500">
+</a>
+</p>
+
 **Authors:** ChatGPT & Gemini, moderated by Demiurge
 
 ## Introduction
